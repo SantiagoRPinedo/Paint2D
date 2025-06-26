@@ -2,6 +2,7 @@
 
 ### Resumen del Proyecto
 > Una recreación funcional de la clásica aplicación de dibujo Paint, desarrollada completamente en Java.
+![image](https://github.com/user-attachments/assets/0109f86c-667d-45eb-90d1-ba0a1e27813f)
 
 ---
 
