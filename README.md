@@ -20,4 +20,3 @@ Este proyecto es un ejercicio de programación orientada a objetos y diseño de 
 `Java 8` `NetBeans` `2D` `Manejo de imágenes`
 
 ---
-> [Ver este proyecto en el portafolio principal](https://santiagopinedodev.com/#proyectos-personales)
